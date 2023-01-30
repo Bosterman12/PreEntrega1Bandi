@@ -1,10 +1,11 @@
 import React from 'react';
 
-export const Cartwidget = () => {
+export const Cartwidget = ({cantCarrito}) => {
     return (
-        <div>
-            
-        </div>
+        <>
+           <button className="btn btn-dark">Carrito</button>
+           <p>{cantCarrito}</p> 
+        </>
     );
 }
 

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Cartwidget } from '../Cartwidget/Cartwidget';
 
 export const Navbar = ({nombre}) => {
     return (
@@ -32,7 +33,7 @@ export const Navbar = ({nombre}) => {
             <a className="nav-link disabled">Disabled</a>
           </li>
         </ul>
-        
+        <Cartwidget cantCarrito={10}/>
       </div>
     </div>
   </nav>  
