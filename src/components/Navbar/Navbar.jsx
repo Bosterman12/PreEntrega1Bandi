@@ -3,6 +3,7 @@ import { Cartwidget } from '../Cartwidget/Cartwidget';
 import { Categorias } from './Categorias/Categorias';
 import { Secciones } from './Secciones/Secciones';
 
+
 export const Navbar = ({nombre}) => {
     return (
         
@@ -19,6 +20,7 @@ export const Navbar = ({nombre}) => {
           <Categorias/>
         </ul>
         <Cartwidget cantCarrito={10}/>
+        
       </div>
     </div>
   </nav>  
