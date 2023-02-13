@@ -12,13 +12,16 @@ export const ItemListContainer = () => {
         setProductos(items)
     })
 
-   },
-   [])
+   },[])
 
    return(
+    
     <div className='row cardProductos'>
+        
         {productos}
     </div>
+  
+    
    )
     
 }
