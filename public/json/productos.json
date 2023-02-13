@@ -24,7 +24,7 @@
     "modelo":"Lissa",
     "precio":23900,
     "stock":30,
-    "img":"caña-pejerrey.jpg"},
+    "img":"caña-telescopica.jpg"},
 
     {"id":4,
     "idCategoria":2,
@@ -79,7 +79,7 @@
     "modelo":"Multifilamento 0.5",
     "precio":15080,
     "stock":30,
-    "img":"plomada.jpg"},
+    "img":"nylon.jpg"},
 
     {"id":10,
     "idCategoria":4,
@@ -97,7 +97,7 @@
     "modelo":"Cascarudo",
     "precio":2500,
     "stock":30,
-   "img":"cascarugo.jpg"
+   "img":"cascarudo.jpg"
     },
 
     {"id":12,

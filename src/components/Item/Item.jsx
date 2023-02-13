@@ -13,6 +13,6 @@ export const Item = ({item}) => {
           </div>
         </div>
         </div>
-    );
+    )
 }
 
