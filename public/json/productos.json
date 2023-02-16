@@ -1,6 +1,6 @@
 [
     {"id":1,
-      "idCategoria":1,
+      "idCategoria":"cañas",
     "nombre":"Caña",
     "marca": "Okuma",
     "modelo":"Morena power",
@@ -9,7 +9,7 @@
     "img":"caña-okuma.jpg"},
 
     {"id":2,
-    "idCategoria":1,
+    "idCategoria":"cañas",
     "nombre":"Caña flycast",
     "marca":"Kunnan",
     "modelo":"Trucha loca",
@@ -18,7 +18,7 @@
     "img":"caña-flycast.jpg"},
 
     {"id":3,
-    "idCategoria":1,
+    "idCategoria":"cañas",
     "nombre":"Caña pejerrey",
     "marca":"Surfish",
     "modelo":"Lissa",
@@ -27,7 +27,7 @@
     "img":"caña-telescopica.jpg"},
 
     {"id":4,
-    "idCategoria":2,
+    "idCategoria":"reeles",
     "nombre":"Reel rotativo",
     "marca":"Caster",
     "modelo":"Flex105R",
@@ -37,7 +37,7 @@
     },
 
     {"id":5,
-    "idCategoria":2,
+    "idCategoria":"reeles",
     "nombre":"Reel frontal",
     "marca":"Caster",
     "modelo":"Sea hunter 9006",
@@ -46,7 +46,7 @@
     "img":"reel-frontal.jpg"},
 
     {"id":6,
-    "idCategoria":2,
+    "idCategoria":"reeles",
     "nombre":"Reel flycast",
     "marca":"Caster",
     "modelo":"Creek 5-6",
@@ -55,7 +55,7 @@
     "img":"reel-flycast.jpg"},
 
     {"id":7,
-    "idCategoria":3,
+    "idCategoria":"aparejos",
     "nombre":"Anzuelos pesca variada",
     "marca":"Fierrito",
     "modelo":"Mordiscon",
@@ -64,7 +64,7 @@
     "img":"anzuelos.jpg"},
 
     {"id":8,
-    "idCategoria":3,
+    "idCategoria":"aparejos",
     "nombre":"Plomada",
     "marca":"Rascafondo",
     "modelo":"Municion",
@@ -73,7 +73,7 @@
     "img":"plomada.jpg"},
 
     {"id":9,
-    "idCategoria":3,
+    "idCategoria":"aparejos",
     "nombre":"Nylon",
     "marca":"Caster",
     "modelo":"Multifilamento 0.5",
@@ -82,7 +82,7 @@
     "img":"nylon.jpg"},
 
     {"id":10,
-    "idCategoria":4,
+    "idCategoria":"carnadas",
     "nombre":"Morena x 12",
     "marca":"Pocho",
     "modelo":"Mamacha",
@@ -91,7 +91,7 @@
    },
 
    {"id":11,
-    "idCategoria":4,
+    "idCategoria":"carnadas",
     "nombre":"Cascarudo x 12",
     "marca":"Pocho",
     "modelo":"Cascarudo",
@@ -101,7 +101,7 @@
     },
 
     {"id":12,
-    "idCategoria":4,
+    "idCategoria":"carnadas",
     "nombre":"Anguila x 12",
     "marca":"Pocho",
     "modelo":"Anguila",

@@ -10,7 +10,7 @@ export const ItemListContainer = () => {
    useEffect (() => {
     if(idCategoria){
         consultarBDD('../json/productos.json').then (products => {
-        const prods = products.filter(prod => prod.idCategoria === parseInt(idCategoria))
+        const prods = products.filter(prod => prod.idCategoria === (idCategoria))
         const items = ItemList ({prods})
         
         setProductos(items)
